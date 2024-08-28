@@ -1,0 +1,27 @@
+[
+    {
+        "text":"What is the largest planet in our solar system?",
+        "options":["Earth", "Jupiter", "Saturn", "Mars"],
+        "answer":2
+    },
+    {
+        "text":"Who painted the famous Mona Lisa?",
+        "options":["Vincent van Gogh","Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+        "answer":3
+    },
+    {
+        "text":"What is the chemical symbol for gold?",
+        "options":["Au" , "Ag" , "Fe" , "Cu"],
+        "answer":1
+    },
+    {
+        "text":"In which year did India gain independence?",
+        "options":["1945", "1947", "1950", "1952"],
+        "answer":2
+    },
+    {
+        "text":"What is the capital of Australia?",
+        "options":["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer":3
+    }    
+]
